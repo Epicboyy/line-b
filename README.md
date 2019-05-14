@@ -1,2 +1,4 @@
 # line-b
-# Mod Thrift ➟ ThriftService booster [Unavailable original akad]
+# Mod Thrift 
+➟ ThriftService.py booster [Unavailable original akad]
+from TrhriftService import *
