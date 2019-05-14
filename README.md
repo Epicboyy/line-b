@@ -2,4 +2,4 @@
 # Mod Thrift 
 ➟ ThriftService.py booster [Unavailable original akad]
 # 
-from TrhriftService import *
+from ThriftService import *
